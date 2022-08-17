@@ -1,5 +1,5 @@
 <!-- src/routes/settings/dogs/__layout.svelte -->
-<h1>Cats</h1>
+<!--h1>Cats</h1 -->
 
 <div class="submenu">
 	<a href="/settings/dogs/shepard">Shepard Dogs</a>
